@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.24",
+  "versionCode": 26,
+  "versionName": "1.0.26",
   "notes": {
-    "ro": "completare loc exploatare in lista apa minerala",
-    "en": "fill in the extraction site in the mineral water list"
+    "ro": "design nou, sectiune recomandari",
+    "en": "new design, recommendations section"
   }
 }
